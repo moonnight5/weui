@@ -39,7 +39,7 @@ html,body{
     /* background-color: #1aad19; */
     line-height: 2.555;
     color: #fff;
-    border-radius: 5px;
+    border-radius: 5px;   /*边框拥有圆角
     margin-top: 15px;
 }
 .weui-btn_primary{
